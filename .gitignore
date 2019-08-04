@@ -1,0 +1,4 @@
+.mbed
+BUILD/
+__pycache__/
+*~
